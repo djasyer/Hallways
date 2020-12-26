@@ -9,6 +9,7 @@ theme: mystery; language used: C++;
 This is an open software so you can customise
 and redistribute your own version of the game.
 ______________________________________________
+
 How To Play:
 
 --> Navigate using compass directions
