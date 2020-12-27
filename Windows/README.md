@@ -6,7 +6,4 @@ Note: I also included the source code so users can customise the game, thanks fo
 
 
 
-Update >> 25/12/2020:
-New version of hallways! Hallways is 
-now having a command-line graphics, we will
-be developing for new patterns and game experience.
+Update >> 25/12/2020: New version of hallways! Hallways is now having a command-line graphics, we will be developing for new patterns and game experience.
