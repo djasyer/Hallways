@@ -10,6 +10,19 @@ This is an open software so you can customise
 and redistribute your own version of the game.
 ______________________________________________
 
+Edition Selection:
+
+The Windows directory contains Hallways for
+computers running Windows 64-bit. It is for
+machines with the x86 or x64 processors.
+
+The Linux directory contains Hallways for
+Linux computers. Hallways for machines with x86
+or x64 processors are in the x86_64 directory
+while Hallways for machines with ARM processors
+are in the arm directory
+______________________________________________
+
 How To Play:
 
 --> Navigate using compass directions
