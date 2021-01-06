@@ -4,7 +4,7 @@
 git add .
 
 # Commit changes.
-git commit -F ~/Git/msg.txt
+git commit -F -m ~/Git/msg.txt
 
 # Push source and build repos.
 git push -u origin main
