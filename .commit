@@ -4,11 +4,7 @@
 git add .
 
 # Commit changes.
-msg="update `date`"
-if [ $# -eq 1 ]
-	then msg="$1"
-fi
-git commit -F ~/msg.txt -m "$msg"
+git commit -F -m ~/msg.txt
 
 # Push source and build repos.
 git push -u origin main
