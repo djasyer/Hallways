@@ -20,7 +20,7 @@ The Linux directory contains Hallways for
 Linux computers. Hallways for machines with x86
 or x64 processors are in the x86_64 directory
 while Hallways for machines with ARM processors
-are in the arm directory
+are in the arm directory.
 ______________________________________________
 
 How To Play:
@@ -35,4 +35,4 @@ hallways (no square brackets needed).
 find.
 
 --> It is important to look for the gate to
-get out
+get out.
