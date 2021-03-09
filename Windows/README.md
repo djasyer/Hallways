@@ -1,6 +1,6 @@
 #Hallways for Windows (x86_64)
 All the versions are packed in zip files.
-To play, download the zip file (version of choice) andextract them. Launch the .exe file and enjoy :]
+To play, extract the zip file (version of choice) and launch the .exe file and enjoy :]
 
 Note: I also included the source code so users can customise the game, thanks for looking at my repository!
 
