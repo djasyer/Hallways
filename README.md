@@ -5,9 +5,9 @@ a big, old, dark castle. Navigate through the
 hallways to get out. You may find something
 unusual while finding the gate key.
 SPEC{ type: command-line, terminal type;
-theme: mystery; language used: C++;
-This is an open software so you can customise
-and redistribute your own version of the game.
+theme: mystery; This is an open source
+software so you can customise and redistribute
+your own version of the game.
 ______________________________________________
 
 Edition Selection:
@@ -29,7 +29,7 @@ How To Play:
 [west, north, east, south] through the
 hallways (no square brackets needed).
 
---> Navigate [up, down] when in staircase.
+--> Navigate [up, down] on staircases.
 
 --> Explore the castle to know what will you
 find.
