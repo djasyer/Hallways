@@ -1,6 +1,6 @@
 #Hallways for Linux (x86_64)
 All the versions are packed in zip files.
-To play, download the zip file (version of choice) andextract them. Launch the program file and enjoy :]
+To play, extract the tarball (version of choice) and launch the program file and enjoy :]
 
 Note: I also included the source code so users can customise the game, thanks for looking at my repository!
 
