@@ -1,4 +1,3 @@
-#Hallways for Linux (x86_64)
 All the versions are packed in zip files.
 To play, extract the tarball (version of choice) and launch the program file and enjoy :]
 
